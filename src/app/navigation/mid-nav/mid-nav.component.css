@@ -1,0 +1,11 @@
+input {
+  font-weight: 400;
+  vertical-align: middle;
+  background-color: #24292f;
+  border: 1px solid #57606a;
+}
+.btns {
+  color: white;
+  background-color: #24292f;
+  border: 1px solid #57606a;
+}

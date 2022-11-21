@@ -1,0 +1,38 @@
+.base-nav {
+  display: flex;
+  border-bottom: 0.5px solid #d2d3d5;
+}
+.left {
+  width: 28%;
+}
+.menu-wrapper {
+  padding-right: 16px !important;
+  padding-left: 16px !important;
+  place-items: center;
+  margin-top: 2.5%;
+}
+.nav {
+  gap: 8px;
+  padding-bottom: 10px;
+}
+li {
+  padding: 0 8px;
+  font-size: 14px;
+  line-height: 30px;
+
+  cursor: pointer;
+}
+a {
+  color: #24292f;
+  padding: 7px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+a:hover {
+  background-color: rgb(230, 230, 230);
+}
+span {
+  padding: 0 8px 0 8px;
+  /* color: #57606a; */
+  fill: #57606a;
+}

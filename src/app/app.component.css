@@ -1,0 +1,12 @@
+.main {
+  width: 100%;
+  justify-content: space-around;
+  padding: 0 40px 0 40px;
+  display: flex;
+}
+.prof {
+  width: 25%;
+}
+.data {
+  width: 68%;
+}
